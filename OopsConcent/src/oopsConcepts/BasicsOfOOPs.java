@@ -3,6 +3,7 @@ package oopsConcepts;
 public class BasicsOfOOPs {
    int age=32;
 	public static void main(String[] args) {
+		System.out.println("selected");
 	/*
 	 * OOPS-object orianed programing
 	 * class-it is a templet collection of objects
